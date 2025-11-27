@@ -1,0 +1,5 @@
+.version-suffix
+.direnv
+.envrc
+result
+outputs/
